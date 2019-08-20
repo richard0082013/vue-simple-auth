@@ -1,13 +1,10 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <img src="./assets/logo.png" alt="Vue logo">
     <router-view />
   </div>
 </template>
-
+2
 <style>
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
