@@ -1,10 +1,10 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png" alt="Vue logo">
+    <img src="./assets/logo.png" alt="Vue logo" />
     <router-view />
   </div>
 </template>
-2
+3
 <style>
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
